@@ -2,7 +2,7 @@
 
 
 
-## 📌 Executive Summary
+## Executive Summary
 This project diagnoses student drop-off drivers and subscription churn mechanics for an online learning platform using **10M+ daily VLE clickstream interaction logs** (~32,500 students across 22 course modules). Leveraging **DuckDB, Python (Pandas/SciPy), and Tableau Public**, this engine models 12-week cohort engagement decay, identifies early-activity churn risk thresholds, and isolates high-friction assessment bottlenecks.
 
 ## Technical Architecture & Workflow
